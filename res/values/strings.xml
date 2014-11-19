@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LinkUp!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- DIALOGS -->
+    <!-- Network -->
+    <string name="dialog_network_title">Set up Network</string>
+    <string name="dialog_network_username">Username</string>
+    <string name="dialog_network_password">Password</string>
+    <string name="dialog_network_password_req">The password must have at least 8 characters</string>
+    <string name="dialog_network_password_checkbox">Show Password</string>
+    <string name="dialog_network_address">IP Address</string>
+    <string name="dialog_network_port">Port Number</string>
+        
+    
+    <!-- ALERTS -->
+    <!-- Network -->
+    <string name="alert_network_error_title">Network Connect</string>
+    <string name="alert_wifi_not_connected">Wi-Fi is disabled</string>
+    <string name="alert_network_settings_invalid">Incomplete network settings</string>
+    
+    <!-- PREFERENCES -->
+    <string name="pref_connect_username">username</string>
+    <string name="pref_connect_password">password</string>
+    <string name="pref_connect_address">address</string>
+    <string name="pref_connect_port">port</string>
+    <string name="pref_connect_show_password">show_password</string>
+    <string name="default_username">linkup</string>
+    <string name="default_password">helloworld</string>
+    <string name="default_address">10.0.0.9</string>
+    <string name="default_port">8080</string>
+       
+     
+</resources>
